@@ -1,13 +1,12 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-  // SALIN SEMUA KUNCI DARI FIREBASE (LANGKAH 2) KE SINI
-  apiKey: "AIzaSyCQPcsj-4Y8XPMmEqhLB-BHAvXrQQCahGI",
-  authDomain: "todosapp-42f3f.firebaseapp.com",
-  projectId: "todosapp-42f3f",
-  storageBucket: "todosapp-42f3f.firebasestorage.app",
-  messagingSenderId: "884776873926",
-  appId: "1:884776873926:web:1328e9d274a4f285dd0cc7"
+  apiKey: "ISI_DENGAN_API_KEY_PROYEK_ANDA",
+  authDomain: "ISI_DENGAN_AUTH_DOMAIN_PROYEK_ANDA",
+  projectId: "ISI_DENGAN_PROJECT_ID_PROYEK_ANDA",
+  storageBucket: "ISI_DENGAN_STORAGE_BUCKET_PROYEK_ANDA",
+  messagingSenderId: "ISI_DENGAN_MESSAGING_SENDER_ID_PROYEK_ANDA",
+  appId: "ISI_DENGAN_APP_ID_PROYEK_ANDA"
 };
 
 if (!firebase.apps.length) {

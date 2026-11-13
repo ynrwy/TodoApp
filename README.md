@@ -55,7 +55,3 @@ Pengembangan aplikasi dilakukan melalui file `App.js`. Perubahan kode dapat lang
 ## Repository
 
 GitHub: https://github.com/ynrwy/TodoApp
-
----
-
-*Dibuat untuk memenuhi tugas praktikum pengembangan aplikasi mobile.*
